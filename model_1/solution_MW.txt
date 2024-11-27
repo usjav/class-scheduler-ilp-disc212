@@ -1,0 +1,316 @@
+Course LAW 486 LEC 1 is assigned to Slot 1
+Course LAW 486 LEC 1 is assigned to Venue SAHSOL CR 1-06
+Course CHEM 531 LEC 1 is assigned to Slot 11
+Course CHEM 531 LEC 1 is assigned to Venue Acad Block SS
+Course PHY 512 LEC 1 is assigned to Slot 10
+Course PHY 512 LEC 1 is assigned to Venue Acad Block A-11
+Course ENGL 3812 LEC 1 is assigned to Slot 4
+Course ENGL 3812 LEC 1 is assigned to Venue Acad Block A-5
+Course CHEM 342 LEC 1 is assigned to Slot 12
+Course CHEM 342 LEC 1 is assigned to Venue SBASSE 10-204
+Course HIST 2324 LEC 1 is assigned to Slot 1
+Course HIST 2324 LEC 1 is assigned to Venue Acad Block A-11
+Course ECON 3603 LEC 1 is assigned to Slot 4
+Course ECON 3603 LEC 1 is assigned to Venue SAHSOL SBACR 0-01
+Course ACCT 411 LEC 1 is assigned to Slot 8
+Course ACCT 411 LEC 1 is assigned to Venue SDSB B-1
+Course SS 187 LEC 1 is assigned to Slot 1
+Course SS 187 LEC 1 is assigned to Venue Acad Block A-12
+Course PSY 100 LEC 3 is assigned to Slot 1
+Course PSY 100 LEC 3 is assigned to Venue SDSB B-2
+Course EDU 422 LEC 1 is assigned to Slot 10
+Course EDU 422 LEC 1 is assigned to Venue Lib Bldg SOE 03
+Course MKTG 392 LEC 1 is assigned to Slot 10
+Course MKTG 392 LEC 1 is assigned to Venue SDSB 203
+Course DISC 320 LEC 1 is assigned to Slot 6
+Course DISC 320 LEC 1 is assigned to Venue SDSB 101
+Course MGMT 212 LEC 5 is assigned to Slot 10
+Course MGMT 212 LEC 5 is assigned to Venue SDSB 101
+Course MGMT 212 LEC 4 is assigned to Slot 8
+Course MGMT 212 LEC 4 is assigned to Venue SDSB 101
+Course MGMT 260 LEC 3 is assigned to Slot 10
+Course MGMT 260 LEC 3 is assigned to Venue Acad Block A-16
+Course MGMT 260 LEC 2 is assigned to Slot 7
+Course MGMT 260 LEC 2 is assigned to Venue Acad Block A-16
+Course MGMT 260 LEC 1 is assigned to Slot 12
+Course MGMT 260 LEC 1 is assigned to Venue Acad Block A-16
+Course MATH 101 LEC 6 is assigned to Slot 10
+Course MATH 101 LEC 6 is assigned to Venue SBASSE 10-301
+Course MATH 101 LEC 3 is assigned to Slot 8
+Course MATH 101 LEC 3 is assigned to Venue SBASSE 10-301
+Course MATH 101 LEC 1 is assigned to Slot 12
+Course MATH 101 LEC 1 is assigned to Venue SBASSE 10-301
+Course ANTH 483 LEC 1 is assigned to Slot 3
+Course ANTH 483 LEC 1 is assigned to Venue Acad Block A-2
+Course CHE 401 LEC 1 is assigned to Slot 10
+Course CHE 401 LEC 1 is assigned to Venue SAHSOL MMACR 1-02
+Course CHEM 532 LEC 1 is assigned to Slot 6
+Course CHEM 532 LEC 1 is assigned to Venue SBASSE 10-202
+Course EE 380 LEC 1 is assigned to Slot 6
+Course EE 380 LEC 1 is assigned to Venue SBASSE 10-301
+Course BIO 331 LEC 1 is assigned to Slot 7
+Course BIO 331 LEC 1 is assigned to Venue SBASSE 10-204
+Course DISC 112 LEC 1 is assigned to Slot 12
+Course DISC 112 LEC 1 is assigned to Venue SDSB 105
+Course LAW 220 LEC 2 is assigned to Slot 4
+Course LAW 220 LEC 2 is assigned to Venue SAHSOL CR 2-06
+Course ACCT 220 LEC 3 is assigned to Slot 10
+Course ACCT 220 LEC 3 is assigned to Venue SDSB 204
+Course ACCT 220 LEC 2 is assigned to Slot 6
+Course ACCT 220 LEC 2 is assigned to Venue SDSB 203
+Course ACCT 220 LEC 1 is assigned to Slot 12
+Course ACCT 220 LEC 1 is assigned to Venue SDSB 203
+Course POL 132 LEC 1 is assigned to Slot 1
+Course POL 132 LEC 1 is assigned to Venue Acad Block A-8
+Course LAW 240 LEC 1 is assigned to Slot 3
+Course LAW 240 LEC 1 is assigned to Venue SAHSOL GHKCR 0-02
+Course PSY 308 LEC 1 is assigned to Slot 1
+Course PSY 308 LEC 1 is assigned to Venue SDSB 205
+Course CS 340 LEC 1 is assigned to Slot 12
+Course CS 340 LEC 1 is assigned to Venue SBASSE 10-201
+Course DISC 321 LEC 2 is assigned to Slot 1
+Course DISC 321 LEC 2 is assigned to Venue SDSB TRDLB
+Course DISC 321 LEC 1 is assigned to Slot 4
+Course DISC 321 LEC 1 is assigned to Venue SDSB TRDLB
+Course MKTG 345 LEC 1 is assigned to Slot 10
+Course MKTG 345 LEC 1 is assigned to Venue SDSB TRDLB
+Course ECON 441 LEC 1 is assigned to Slot 1
+Course ECON 441 LEC 1 is assigned to Venue Acad Block A-15
+Course EE 340 LEC 1 is assigned to Slot 6
+Course EE 340 LEC 1 is assigned to Venue Acad Block A-16
+Course EE 421 LEC 1 is assigned to Slot 8
+Course EE 421 LEC 1 is assigned to Venue SBASSE 10-204
+Course HIST 3310 LEC 1 is assigned to Slot 4
+Course HIST 3310 LEC 1 is assigned to Venue Acad Block A-10
+Course CS 582 LEC 1 is assigned to Slot 9
+Course CS 582 LEC 1 is assigned to Venue Acad Block A-11
+Course ECON 330 LEC 1 is assigned to Slot 10
+Course ECON 330 LEC 1 is assigned to Venue SAHSOL CR 1-01
+Course ECON 438 LEC 1 is assigned to Slot 4
+Course ECON 438 LEC 1 is assigned to Venue Acad Block A-8
+Course ECON 363 LEC 1 is assigned to Slot 4
+Course ECON 363 LEC 1 is assigned to Venue Acad Block SS
+Course ECON 536 LEC 1 is assigned to Slot 1
+Course ECON 536 LEC 1 is assigned to Venue SAHSOL CR 2-01
+Course EE 330 LEC 1 is assigned to Slot 9
+Course EE 330 LEC 1 is assigned to Venue SBASSE 10-301
+Course ENV 342 LEC 1 is assigned to Slot 1
+Course ENV 342 LEC 1 is assigned to Venue Acad Block SS
+Course MATH 414 LEC 1 is assigned to Slot 10
+Course MATH 414 LEC 1 is assigned to Venue Acad Block SS
+Course ENGL 3172 LEC 1 is assigned to Slot 4
+Course ENGL 3172 LEC 1 is assigned to Venue Acad Block A-12
+Course CHEM 231 LEC 1 is assigned to Slot 10
+Course CHEM 231 LEC 1 is assigned to Venue SBASSE 10-201
+Course EDU 274 LEC 1 is assigned to Slot 7
+Course EDU 274 LEC 1 is assigned to Venue Lib Bldg SOE 03
+Course BIO 221 LEC 1 is assigned to Slot 1
+Course BIO 221 LEC 1 is assigned to Venue SBASSE 10-302
+Course POL 4314 LEC 1 is assigned to Slot 1
+Course POL 4314 LEC 1 is assigned to Venue SAHSOL GHKCR 0-02
+Course EE 5216 LEC 1 is assigned to Slot 10
+Course EE 5216 LEC 1 is assigned to Venue SBASSE 10-204
+Course LAW 353 LEC 1 is assigned to Slot 3
+Course LAW 353 LEC 1 is assigned to Venue SAHSOL ARDCR 0-07
+Course MKTG 324 LEC 1 is assigned to Slot 7
+Course MKTG 324 LEC 1 is assigned to Venue SDSB B-1
+Course FINN 200 LEC 1 is assigned to Slot 11
+Course FINN 200 LEC 1 is assigned to Venue SDSB 204
+Course FINN 200 LEC 3 is assigned to Slot 6
+Course FINN 200 LEC 3 is assigned to Venue SDSB 204
+Course FINN 200 LEC 2 is assigned to Slot 12
+Course FINN 200 LEC 2 is assigned to Venue SDSB 204
+Course ECON 211 LEC 1 is assigned to Slot 1
+Course ECON 211 LEC 1 is assigned to Venue Acad Block A-7
+Course MATH 309 LEC 1 is assigned to Slot 9
+Course MATH 309 LEC 1 is assigned to Venue SDSB 305
+Course ANTH 100 LEC 2 is assigned to Slot 2
+Course ANTH 100 LEC 2 is assigned to Venue Acad Block A-12
+Course MATH 204 LEC 1 is assigned to Slot 10
+Course MATH 204 LEC 1 is assigned to Venue SBASSE 10-302
+Course ECON 233 LEC 1 is assigned to Slot 3
+Course ECON 233 LEC 1 is assigned to Venue SAHSOL CR 1-07
+Course ENGL 1192 LEC 1 is assigned to Slot 4
+Course ENGL 1192 LEC 1 is assigned to Venue SAHSOL CR 1-01
+Course CLCA 2523 LEC 1 is assigned to Slot 3
+Course CLCA 2523 LEC 1 is assigned to Venue Acad Block A-10
+Course DISC 212 LEC 2 is assigned to Slot 6
+Course DISC 212 LEC 2 is assigned to Venue SDSB 201
+Course DISC 212 LEC 1 is assigned to Slot 7
+Course DISC 212 LEC 1 is assigned to Venue SDSB 201
+Course LAW 102 LEC 2 is assigned to Slot 1
+Course LAW 102 LEC 2 is assigned to Venue SAHSOL CR 1-07
+Course POL 100 LEC 3 is assigned to Slot 2
+Course POL 100 LEC 3 is assigned to Venue Acad Block A-3
+Course CS 200 LEC 1 is assigned to Slot 10
+Course CS 200 LEC 1 is assigned to Venue SDSB B-3
+Course SOC 100 LEC 2 is assigned to Slot 1
+Course SOC 100 LEC 2 is assigned to Venue SAHSOL SBACR 0-01
+Course ACCT 202 LEC 2 is assigned to Slot 10
+Course ACCT 202 LEC 2 is assigned to Venue Acad Block A-4
+Course ACCT 202 LEC 1 is assigned to Slot 8
+Course ACCT 202 LEC 1 is assigned to Venue Acad Block A-4
+Course ECON 4410 LEC 1 is assigned to Slot 4
+Course ECON 4410 LEC 1 is assigned to Venue Acad Block MCB Acad Block A-13
+Course CLCA 3325 LEC 1 is assigned to Slot 3
+Course CLCA 3325 LEC 1 is assigned to Venue Acad Block A-3
+Course EE 5502 LEC 1 is assigned to Slot 9
+Course EE 5502 LEC 1 is assigned to Venue SBASSE 10-302
+Course MGMT 252 LEC 1 is assigned to Slot 10
+Course MGMT 252 LEC 1 is assigned to Venue Acad Block A-7
+Course CS 535 LEC 2 is assigned to Slot 9
+Course CS 535 LEC 2 is assigned to Venue SBASSE 10-201
+Course CS 535 LEC 1 is assigned to Slot 6
+Course CS 535 LEC 1 is assigned to Venue SBASSE 10-201
+Course MGMT 283 LEC 1 is assigned to Slot 10
+Course MGMT 283 LEC 1 is assigned to Venue SDSB B-2
+Course CHE 330 LEC 1 is assigned to Slot 10
+Course CHE 330 LEC 1 is assigned to Venue Acad Block A-5
+Course ECON 262 LEC 1 is assigned to Slot 3
+Course ECON 262 LEC 1 is assigned to Venue Acad Block A-12
+Course PHY 101 LEC 1 is assigned to Slot 10
+Course PHY 101 LEC 1 is assigned to Venue SBASSE 9-B2
+Course CLCA 2119 LEC 1 is assigned to Slot 4
+Course CLCA 2119 LEC 1 is assigned to Venue Acad Block A-7
+Course ENV 210 LEC 1 is assigned to Slot 4
+Course ENV 210 LEC 1 is assigned to Venue SAHSOL CR 1-07
+Course ECON 511 LEC 1 is assigned to Slot 4
+Course ECON 511 LEC 1 is assigned to Venue Acad Block A-2
+Course BIO 216 LEC 1 is assigned to Slot 9
+Course BIO 216 LEC 1 is assigned to Venue SBASSE 10-204
+Course ENGL 2402 LEC 1 is assigned to Slot 4
+Course ENGL 2402 LEC 1 is assigned to Venue Acad Block A-9
+Course MATH 4418 LEC 1 is assigned to Slot 10
+Course MATH 4418 LEC 1 is assigned to Venue SBASSE 10-304
+Course CS 370 LEC 1 is assigned to Slot 12
+Course CS 370 LEC 1 is assigned to Venue SBASSE 9-B2
+Course DISC 231 LEC 1 is assigned to Slot 9
+Course DISC 231 LEC 1 is assigned to Venue SDSB 101
+Course MATH 341 LEC 1 is assigned to Slot 9
+Course MATH 341 LEC 1 is assigned to Venue SDSB 201
+Course ORSC 201 LEC 2 is assigned to Slot 10
+Course ORSC 201 LEC 2 is assigned to Venue SDSB B-1
+Course ORSC 201 LEC 1 is assigned to Slot 9
+Course ORSC 201 LEC 1 is assigned to Venue SDSB 105
+Course LAW 4304 LEC 1 is assigned to Slot 4
+Course LAW 4304 LEC 1 is assigned to Venue SAHSOL CR 1-06
+Course CHE 262 LEC 1 is assigned to Slot 8
+Course CHE 262 LEC 1 is assigned to Venue SBASSE 10-304
+Course ECON 449 LEC 1 is assigned to Slot 2
+Course ECON 449 LEC 1 is assigned to Venue SAHSOL ARDCR 0-07
+Course CHE 210 LEC 1 is assigned to Slot 9
+Course CHE 210 LEC 1 is assigned to Venue Acad Block A-5
+Course POL 4112 LEC 1 is assigned to Slot 1
+Course POL 4112 LEC 1 is assigned to Venue Acad Block A-10
+Course POL 3202 LEC 1 is assigned to Slot 1
+Course POL 3202 LEC 1 is assigned to Venue Acad Block A-5
+Course POL 224 LEC 1 is assigned to Slot 5
+Course POL 224 LEC 1 is assigned to Venue Acad Block A-15
+Course FINN 454 LEC 1 is assigned to Slot 9
+Course FINN 454 LEC 1 is assigned to Venue SDSB TRDLB
+Course EE 452 LEC 1 is assigned to Slot 7
+Course EE 452 LEC 1 is assigned to Venue SBASSE 10-202
+Course EE 453 LEC 1 is assigned to Slot 10
+Course EE 453 LEC 1 is assigned to Venue SBASSE 10-202
+Course CHE 260 LEC 1 is assigned to Slot 12
+Course CHE 260 LEC 1 is assigned to Venue SBASSE 10-202
+Course CHEM 101 LEC 1 is assigned to Slot 6
+Course CHEM 101 LEC 1 is assigned to Venue SBASSE 9-B2
+Course ECON 100 LEC 1 is assigned to Slot 4
+Course ECON 100 LEC 1 is assigned to Venue SDSB B-2
+Course FINN 100 LEC 1 is assigned to Slot 11
+Course FINN 100 LEC 1 is assigned to Venue SDSB 203
+Course ACCT 100 LEC 7 is assigned to Slot 10
+Course ACCT 100 LEC 7 is assigned to Venue Acad Block A-1
+Course ACCT 100 LEC 6 is assigned to Slot 7
+Course ACCT 100 LEC 6 is assigned to Venue Acad Block A-1
+Course ECON 121 LEC 1 is assigned to Slot 8
+Course ECON 121 LEC 1 is assigned to Venue Acad Block A-3
+Course ECON 121 LEC 2 is assigned to Slot 10
+Course ECON 121 LEC 2 is assigned to Venue Acad Block A-8
+Course MGMT 142 LEC 6 is assigned to Slot 10
+Course MGMT 142 LEC 6 is assigned to Venue Acad Block A-14
+Course MGMT 142 LEC 5 is assigned to Slot 10
+Course MGMT 142 LEC 5 is assigned to Venue SDSB 105
+Course MKTG 201 LEC 4 is assigned to Slot 10
+Course MKTG 201 LEC 4 is assigned to Venue SDSB 201
+Course MECO 111 LEC 2 is assigned to Slot 8
+Course MECO 111 LEC 2 is assigned to Venue SDSB 105
+Course MECO 111 LEC 6 is assigned to Slot 9
+Course MECO 111 LEC 6 is assigned to Venue Acad Block A-7
+Course MECO 111 LEC 1 is assigned to Slot 7
+Course MECO 111 LEC 1 is assigned to Venue SDSB 105
+Course MATH 230 LEC 1 is assigned to Slot 7
+Course MATH 230 LEC 1 is assigned to Venue SBASSE 9-B2
+Course SS 3302 LEC 1 is assigned to Slot 1
+Course SS 3302 LEC 1 is assigned to Venue Acad Block A-3
+Course DISC 331 LEC 1 is assigned to Slot 12
+Course DISC 331 LEC 1 is assigned to Venue SDSB 101
+Course PSY 220 LEC 1 is assigned to Slot 1
+Course PSY 220 LEC 1 is assigned to Venue Acad Block MCB Acad Block A-13
+Course LAW 352 LEC 2 is assigned to Slot 4
+Course LAW 352 LEC 2 is assigned to Venue SAHSOL GHKCR 0-02
+Course LAW 352 LEC 1 is assigned to Slot 4
+Course LAW 352 LEC 1 is assigned to Venue SAHSOL MMACR 1-02
+Course HIST 314 LEC 1 is assigned to Slot 1
+Course HIST 314 LEC 1 is assigned to Venue Acad Block A-1
+Course CHEM 314 LEC 1 is assigned to Slot 10
+Course CHEM 314 LEC 1 is assigned to Venue Acad Block A-6
+Course PHY 212 LEC 1 is assigned to Slot 10
+Course PHY 212 LEC 1 is assigned to Venue Acad Block A-3
+Course DISC 322 LEC 2 is assigned to Slot 8
+Course DISC 322 LEC 2 is assigned to Venue SDSB 201
+Course DISC 322 LEC 1 is assigned to Slot 12
+Course DISC 322 LEC 1 is assigned to Venue SDSB 201
+Course ECON 247 LEC 1 is assigned to Slot 3
+Course ECON 247 LEC 1 is assigned to Venue Acad Block A-15
+Course CHEM 721 LEC 1 is assigned to Slot 9
+Course CHEM 721 LEC 1 is assigned to Venue Acad Block A-8
+Course CHEM 731 LEC 1 is assigned to Slot 12
+Course CHEM 731 LEC 1 is assigned to Venue Acad Block SS
+Course ENGL 2811 LEC 1 is assigned to Slot 1
+Course ENGL 2811 LEC 1 is assigned to Venue Acad Block A-9
+Course ECON 230 LEC 2 is assigned to Slot 8
+Course ECON 230 LEC 2 is assigned to Venue SDSB B-3
+Course ECON 230 LEC 3 is assigned to Slot 10
+Course ECON 230 LEC 3 is assigned to Venue Acad Block MCB Acad Block A-13
+Course SCI 503 LEC 1 is assigned to Slot 10
+Course SCI 503 LEC 1 is assigned to Venue SDSB 305
+Course MGMT 400 LEC 2 is assigned to Slot 7
+Course MGMT 400 LEC 2 is assigned to Venue SDSB 203
+Course SOC 265 LEC 1 is assigned to Slot 1
+Course SOC 265 LEC 1 is assigned to Venue SAHSOL ARDCR 0-07
+Course SOC 334 LEC 1 is assigned to Slot 4
+Course SOC 334 LEC 1 is assigned to Venue SAHSOL SIACR 0-06
+Course PSY 212 LEC 1 is assigned to Slot 1
+Course PSY 212 LEC 1 is assigned to Venue SAHSOL CR 1-01
+Course LAW 222 LEC 1 is assigned to Slot 1
+Course LAW 222 LEC 1 is assigned to Venue SAHSOL CR 2-07
+Course CHE 710 LEC 1 is assigned to Slot 7
+Course CHE 710 LEC 1 is assigned to Venue SBASSE 10-304
+Course REL 200 LEC 1 is assigned to Slot 1
+Course REL 200 LEC 1 is assigned to Venue Acad Block A-4
+Course EDU 325 LEC 1 is assigned to Slot 8
+Course EDU 325 LEC 1 is assigned to Venue Lib Bldg SOE 03
+Course SS 100 LEC 6 is assigned to Slot 1
+Course SS 100 LEC 6 is assigned to Venue Acad Block A-6
+Course SS 100 LEC 19 is assigned to Slot 4
+Course SS 100 LEC 19 is assigned to Venue Acad Block A-16
+Course SS 100 LEC 20 is assigned to Slot 1
+Course SS 100 LEC 20 is assigned to Venue SAHSOL SIACR 0-06
+Course SS 100 LEC 12 is assigned to Slot 1
+Course SS 100 LEC 12 is assigned to Venue SAHSOL MMACR 1-02
+Course SS 100 LEC 22 is assigned to Slot 4
+Course SS 100 LEC 22 is assigned to Venue Acad Block A-6
+Course SS 100 LEC 11 is assigned to Slot 4
+Course SS 100 LEC 11 is assigned to Venue SAHSOL CR 2-07
+Course SS 100 LEC 8 is assigned to Slot 1
+Course SS 100 LEC 8 is assigned to Venue SAHSOL CR 2-02
+Course SS 100 LEC 4 is assigned to Slot 1
+Course SS 100 LEC 4 is assigned to Venue SAHSOL CR 2-06
+Course SS 100 LEC 15 is assigned to Slot 1
+Course SS 100 LEC 15 is assigned to Venue Acad Block A-14
+Course SS 100 LEC 13 is assigned to Slot 1
+Course SS 100 LEC 13 is assigned to Venue Acad Block A-2
+Course GSL 202 LEC 1 is assigned to Slot 4
+Course GSL 202 LEC 1 is assigned to Venue Acad Block A-14

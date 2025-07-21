@@ -30,9 +30,11 @@ I developed **Model-2**, which integrates a weighted constraint approach to achi
 - Integrate support for venue pre-bookings and non-teaching usage
 
 ## 📂 Repository Structure
+```
 ├── RO                                 # University's schedule stats
 ├── model_1                            # Alternative model by another team member
 ├── model_2                            # Optimized model using ILP (Usama's contribution) with MW/TR schedule and stats
 ├── evaluation.ipynb                   # Visual comparisons of all models and venue/course stats
 ├── dataset (courses.csv, venues.csv)  # Input dataset (venue, courses, schedule info) extracted from university's website
 ├── README.md                          # Documentation and project overview
+```
